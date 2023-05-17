@@ -1,6 +1,6 @@
 # HP caracters
 
-- HArry Potter
+- Harry Potter
 
 - Hermione
 
@@ -14,7 +14,7 @@
 
 - Luna
 
-- Snap
+- Snape
 
 - Wesley family
 
@@ -29,5 +29,13 @@
 - Seraphina
 
 - Sirus Black
-  
-  > > > > > > > 
+
+- Neville
+
+- Bellatrix
+
+- Grindelwald
+
+- Lupin
+
+- Maugrey
